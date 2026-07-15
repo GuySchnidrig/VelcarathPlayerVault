@@ -11,13 +11,10 @@
             "id": "8722d1159f52781b",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "content/Maps/Locke.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-layout-list",
-              "title": "Locke"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -181,6 +178,8 @@
   },
   "active": "8722d1159f52781b",
   "lastOpenFiles": [
+    "content/Maps/Locke.md",
+    "content/Maps/World Map.md",
     "public/tags/index-og-image.webp",
     "public/templates/index-og-image.webp",
     "public/sessions/index-og-image.webp",
@@ -190,7 +189,6 @@
     "public/lore/index-og-image.webp",
     "public/locations/index-og-image.webp",
     "public/encounters/index-og-image.webp",
-    "public/maps/locke.base-og-image.webp",
     "public/index-og-image.webp",
     "public/maps/test.wonderdraft_map",
     "public/maps/map-seed.txt",
@@ -200,9 +198,21 @@
     "public/static/contentIndex.json",
     "public/assets",
     "public/index.xml",
-    "public/CNAME",
     "public/favicon.ico",
-    "content/Maps/Locke.md",
+    "public/CNAME",
+    "content/Maps/Untitled.md",
+    "content/Templates/Map.md",
+    "content/Templates/Untitled.md",
+    "content/Locations/Coastal City.md",
+    "content/Coastal City.md",
+    "content/Untitled 5.md",
+    "content/Untitled 4.md",
+    "content/costal city.md",
+    "content/Untitled 3.md",
+    "content/Untitled 2.md",
+    "content/Untitled 1.md",
+    "content/Untitled.md",
+    "content/City.md",
     "docs/build.md",
     "docs/authoring content.md",
     "docs/cli/upgrade.md",
@@ -212,20 +222,6 @@
     "docs/cli/plugin.md",
     "docs/cli/index.md",
     "docs/cli/create.md",
-    "docs/cli/build.md",
-    "docs/troubleshooting.md",
-    "docs/plugins/UnlistedPages.md",
-    "docs/plugins/TagList.md",
-    "docs/plugins/StackedPages.md",
-    "docs/plugins/Spacer.md",
-    "docs/plugins/Search.md",
-    "docs/plugins/RecentNotes.md",
-    "docs/plugins/ReaderMode.md",
-    "docs/plugins/PageTitle.md",
-    "docs/getting-started/whats-new.md",
-    "docs/getting-started/upgrading.md",
-    "docs/getting-started/migrating.md",
-    "docs/getting-started/installation.md",
-    "docs/getting-started/index.md"
+    "docs/cli/build.md"
   ]
 }

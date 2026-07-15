@@ -1,6 +1,7 @@
 ---
 type: location
 region: The Brinemark
+marker:
 ---
 
 # Vellharrow

@@ -1,6 +1,5 @@
 ---
 marker:
-  - coordinates: 480, 922
-    icon: lucide-house
-    minZoom: -1
+  - coordinates: 1031, 2087
+    icon: lucide-anvil
 ---

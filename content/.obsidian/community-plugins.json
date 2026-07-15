@@ -1,1 +1,6 @@
-[]
+[
+  "obsidian-excalidraw-plugin",
+  "obsidian-leaflet-plugin",
+  "leaflet-bases",
+  "obsidian-meta-bind-plugin"
+]

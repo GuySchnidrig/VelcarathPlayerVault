@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Locke.md",
+                "file": "Maps/World Map.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Locke"
+              "title": "World Map"
             }
           }
         ]
@@ -180,33 +180,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1976a9cd49cce332",
+  "active": "65e14dfd76cd1997",
   "lastOpenFiles": [
-    "Maps/Locke.base",
-    "Maps/Locke.md",
-    "PCs/Bram Tuckett.md",
-    "2026-07-15.md",
+    "Maps/World Map.md",
+    "Maps/World Map.md",
+    "Templates/Map.md",
+    "Locations/Coastal City.md",
+    "Locations/Abandoned Bridge.md",
+    "Locations/Elmbend.md",
+    "Locations/Goldenalden.md",
+    "Locations/Saltmere.md",
+    "Locations/Lockeborough.md",
+    "Locations/Yellowdrum.md",
+    "Locations/Vellharrow.md",
+    "Templates/Encounter Template.md",
+    "PCs/Yneva Marsh.md",
+    "Locations/The Greyflat Pans.md",
     "assets/world_map.png",
+    "Lore/The Carrow Combine.md",
+    "Templates/Location Template.md",
+    "Maps/Locke.base",
+    "Coastal City.md",
+    "Lore/The Salt Road.md",
+    "Locations/Salvation Lookout.md",
+    "Locations/Skyreach Spire.md",
+    "Untitled 4.md",
+    "Encounters/Multiple markers.md",
+    "costal city.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "assets/map1.png",
     "assets/Locke.png",
     "assets",
-    "Encounters/Multiple markers.md",
-    "Locations/Yellowdrum.md",
-    "Locations/Skyreach Spire.md",
-    "Locations/Salvation Lookout.md",
-    "Locations/Lockeborough.md",
-    "Locations/Greenmouth.md",
-    "Locations/Goldenalden.md",
-    "Locations/Flathill.md",
-    "Locations/Emerald Gills.md",
-    "Locations/Elmbend.md",
-    "Locations/Crossroad Keep.md",
-    "Locations/Cinder Keep.md",
-    "Locations/Abandoned Bridge.md",
-    "Maps/Map.md",
     "Maps/map1.png"
   ]
 }
