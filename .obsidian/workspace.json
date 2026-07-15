@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "8b7c7249a9e6738e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d10d4cfb54a1fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8722d1159f52781b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "content/Maps/Locke.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-layout-list",
+              "title": "Locke"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d4d3b4834194bb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cede3c05d13e8c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1df94e7b2126547",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f3e6e788c6e6cd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e316abc376d6b400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3620409ff4e373e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3dcea35d830d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efbc54820392adc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "41f9ef83be43d085",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "037f439090c553b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b0418c83625dc8a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f33067713ac646a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8722d1159f52781b",
+  "lastOpenFiles": [
+    "public/tags/index-og-image.webp",
+    "public/templates/index-og-image.webp",
+    "public/sessions/index-og-image.webp",
+    "public/pcs/index-og-image.webp",
+    "public/npcs/index-og-image.webp",
+    "public/maps/index-og-image.webp",
+    "public/lore/index-og-image.webp",
+    "public/locations/index-og-image.webp",
+    "public/encounters/index-og-image.webp",
+    "public/maps/locke.base-og-image.webp",
+    "public/index-og-image.webp",
+    "public/maps/test.wonderdraft_map",
+    "public/maps/map-seed.txt",
+    "public/static/giscus/light.css",
+    "public/static/giscus/dark.css",
+    "public/static/giscus",
+    "public/static/contentIndex.json",
+    "public/assets",
+    "public/index.xml",
+    "public/CNAME",
+    "public/favicon.ico",
+    "content/Maps/Locke.md",
+    "docs/build.md",
+    "docs/authoring content.md",
+    "docs/cli/upgrade.md",
+    "docs/cli/tui.md",
+    "docs/cli/sync.md",
+    "docs/cli/restore.md",
+    "docs/cli/plugin.md",
+    "docs/cli/index.md",
+    "docs/cli/create.md",
+    "docs/cli/build.md",
+    "docs/troubleshooting.md",
+    "docs/plugins/UnlistedPages.md",
+    "docs/plugins/TagList.md",
+    "docs/plugins/StackedPages.md",
+    "docs/plugins/Spacer.md",
+    "docs/plugins/Search.md",
+    "docs/plugins/RecentNotes.md",
+    "docs/plugins/ReaderMode.md",
+    "docs/plugins/PageTitle.md",
+    "docs/getting-started/whats-new.md",
+    "docs/getting-started/upgrading.md",
+    "docs/getting-started/migrating.md",
+    "docs/getting-started/installation.md",
+    "docs/getting-started/index.md"
+  ]
+}

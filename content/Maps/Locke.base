@@ -1,0 +1,4 @@
+views:
+  - type: leaflet-map
+    name: View
+    image: assets/world_map.png

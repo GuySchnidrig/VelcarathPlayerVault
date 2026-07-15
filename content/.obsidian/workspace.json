@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "e0149c9a6743f641",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c04b57eb574cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1976a9cd49cce332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Locke.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Locke"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7d247793cbdd0be",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97de08f3c17c889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e14dfd76cd1997",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "417d0cfcc9da354a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85c42aa450749696",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eff7cb0a7b2d7f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da3528ca1dccd6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "650e447a42cb3a53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maps/Locke.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Locke"
+            }
+          },
+          {
+            "id": "10bafa6cf3508fb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maps/Locke.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Locke"
+            }
+          },
+          {
+            "id": "5a734efb4d013a57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb5fed5cea690f1a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "52a566837a12cef3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maps/Locke.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Locke"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1976a9cd49cce332",
+  "lastOpenFiles": [
+    "Maps/Locke.base",
+    "Maps/Locke.md",
+    "PCs/Bram Tuckett.md",
+    "2026-07-15.md",
+    "assets/world_map.png",
+    "assets/map1.png",
+    "assets/Locke.png",
+    "assets",
+    "Encounters/Multiple markers.md",
+    "Locations/Yellowdrum.md",
+    "Locations/Skyreach Spire.md",
+    "Locations/Salvation Lookout.md",
+    "Locations/Lockeborough.md",
+    "Locations/Greenmouth.md",
+    "Locations/Goldenalden.md",
+    "Locations/Flathill.md",
+    "Locations/Emerald Gills.md",
+    "Locations/Elmbend.md",
+    "Locations/Crossroad Keep.md",
+    "Locations/Cinder Keep.md",
+    "Locations/Abandoned Bridge.md",
+    "Maps/Map.md",
+    "Maps/map1.png"
+  ]
+}
